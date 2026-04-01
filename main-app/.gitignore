@@ -1,0 +1,26 @@
+# dependencies
+node_modules
+.pnpm-store
+
+# builds
+dist
+.next
+.turbo
+out
+
+# env files
+.env
+.env.local
+.env.*.local
+
+# misc
+.DS_Store
+*.log
+npm-debug.log*
+
+# database
+*.db
+*.sqlite
+
+# turbo
+.turbo

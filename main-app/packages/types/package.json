@@ -1,0 +1,13 @@
+{
+  "name": "@financeos/types",
+  "version": "0.0.1",
+  "private": true,
+  "main": "./src/index.ts",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "devDependencies": {
+    "@financeos/config": "workspace:*",
+    "typescript": "^5.6.3"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "extends": "@financeos/config/typescript",
+  "compilerOptions": {
+    "outDir": "./dist"
+  },
+  "include": ["src"]
+}
